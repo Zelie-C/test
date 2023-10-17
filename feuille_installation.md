@@ -61,6 +61,8 @@ Le terminal renvoie un Agent pid suivi d'un chiffre
 ssh-add ~/.ssh/nom_de_la_clef
 ```
 
+6. En cas d'erreur de communication avec ssh-agent : (https://stackoverflow.com/questions/17846529/could-not-open-a-connection-to-your-authentication-agent)
+
 ## Ajout de la clef à GitHub
 
 1. Ouvrir la clef et copier le contenu dans le Presse-papier
